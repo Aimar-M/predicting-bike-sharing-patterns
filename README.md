@@ -2,7 +2,7 @@
 This is my first deep neural network built from scratch as part of the Udacity deep learning Nanodegree.
 
 
-The goal of this project is to use a neural network to help a fictional bike sharing company to estimate from historical data the number of bikes they need to have, too many bikes may result in money lost on bikes sitting around and too few might result in money lost from potential riders.
+The goal of this project is to use a neural network to help a fictional bike sharing company to estimate the number of bikes they need from historical data. Too many bikes result in money lost on bikes sitting around and too few result in money lost from potential riders.
 
 
 
