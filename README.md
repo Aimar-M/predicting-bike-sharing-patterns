@@ -11,6 +11,6 @@ The goal of this project is to use a neural network to help a fictional bike sha
 * The dataset is in the Bike-sharing-dataset
 * check my_answers.py to see the code of the neural network and the hyperparameters I use
 
-## to effectively run the jupyter notebook u will need 
+## to effectively run the jupyter notebook you will need 
 * import numpy, pandas and matplotlib
 
